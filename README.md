@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://postimg.cc/7bc67R9t" alt="Logo MistyMoon Estúdios"/>
+  <img height="150" src="https://i.postimg.cc/rFyr6XrT/Misty-Moon-Logo-com-fundo.png" alt="Logo MistyMoon Estúdios"/>
 </div>
 
 <p align="center">
